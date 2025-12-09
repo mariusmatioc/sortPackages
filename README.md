@@ -1,1 +1,3 @@
 # sortPackages
+
+Run "go test".
